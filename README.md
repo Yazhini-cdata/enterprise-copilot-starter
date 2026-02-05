@@ -78,6 +78,3 @@ src/
 
 This template includes basic data masking for demonstration purposes (`mcp.ts`). For production use, ensure you implement robust authentication and server-side data sanitization.
 
-## 📄 License
-
-MIT
